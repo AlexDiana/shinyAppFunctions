@@ -3,9 +3,12 @@ Type: Package
 Title: What the package does (short line)
 Version: 1.0
 Date: 2019-07-04
-Author: Who wrote it
+Author: Alex Diana
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Imports: Rcpp (>= 1.0.1)
 LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.1.1
+Encoding: UTF-8
+URL: https://github.com/AlexDiana/shinyAppFunctions
